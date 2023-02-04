@@ -1,6 +1,11 @@
-# OneBot 12 QQ
-
-本仓库是 OneBot 12 的扩展标准，针对 QQ 平台的聊天机器人定义了标准规范。
+<p align="center">
+    <a href="https://github.com/A-kirami/onebot-12-qq">
+        <img width="140px" src="https://raw.githubusercontent.com/A-kirami/onebot-12-qq/master/assets/onebot-12-qq.svg"
+            align="center" alt="onebot-12-qq-logo" />
+    </a>
+<h1 align="center">OneBot 12 QQ</h1>
+<p align="center">🐧 OneBot 12 的 QQ 平台扩展标准</p>
+</p>
 
 ## 背景
 OneBot 是一个聊天机器人应用接口标准，旨在统一不同聊天平台上的机器人应用开发接口，使开发者只需编写一次业务逻辑代码即可应用到多种机器人平台。
