@@ -1,4 +1,4 @@
-OneBot 12 QQ
+# OneBot 12 QQ
 
 本仓库是 OneBot 12 的扩展标准，针对 QQ 平台的聊天机器人定义了标准规范。
 
